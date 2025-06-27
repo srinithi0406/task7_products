@@ -11,7 +11,7 @@ PrismKart is a fully responsive e-commerce product listing page built using **HT
 -  **Price Sort**: Sort products by price (Low → High / High → Low)
 -  **Product Cards**: Clean, stylish layout using Flexbox
 -  **Modal Popup**: Click "View" to open a modal with detailed product info
--  **Responsive Design**: Works seamlessly on mobile, tablet, and desktop
+-  **Responsive Design**: Works seamlessly on mobile, and desktop
 
 ---
 
